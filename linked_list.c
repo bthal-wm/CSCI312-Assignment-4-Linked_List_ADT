@@ -149,8 +149,3 @@ void list_reverse(LinkedList *list)
     // Works on list->head, size doesn't change
     // No return value needed - modifies in place
 }
-
-int main(void)
-{   
-    return 0;
-}
